@@ -1,4 +1,6 @@
-# Product_Dissection_Project
+### Product_Dissection_Project
+
+https://github.com/TrishAcharya/Product_Dissection_Project/blob/main/Product%20Dissection%20for%20YouTube...pdf
 
 Objective:
 
